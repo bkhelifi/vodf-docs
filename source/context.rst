@@ -63,7 +63,7 @@ VODF Steering committee
    * - IceCube
      - Neutrino detector
      - Marcos Santander
-   * - KM3Net
+   * - KM3NeT
      - Neutrino detector
      - Kay Graf
    * - MAGIC
