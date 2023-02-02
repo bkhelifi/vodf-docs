@@ -14,20 +14,25 @@ This page lists the contact points and communication channels for VODF:
 Developers and users are using the VODF Slack to chat. There is a **#general**
 and some other Slack channels that will go to many people. But you can also
 join and use the VODF slack for 1:1 text chat with someone from the VODF team
-to get help with git, the web site, the formatsy, ... The VODF slack is
+to get help with git, the web site, the formats, ... The VODF slack is
 private and the history is not archived, i.e. is lost at some point. To get
 access, sign-up via the above-mentioned link and wait a bit for moderator
 approval.
 
 - **mailing lists**:
+List of the steering committee: `VODF-SC-L@IN2P3.FR <VODF-SC-L@IN2P3.FR>`_
 
-  - general mailing list of the project: `vodf-all .at. python.org`,
-  - list of the steering committee, `vodf-sc .at. python.org`,
-  - list of the lead editors and conveners, `vodf-le .at. python.org`,
+- **Github Discussion**: `https://github.com/VODF/vodf-docs/discussions <https://github.com/VODF/vodf-docs/discussions>`_
+Anyone can exchange on any VODF subject using this Github tool. It allows to store the exchanges, 
+flag them according to their topics.
+
 
 
 
 ==============
 Acknowledgment
 ==============
-
+We acknowledge the support of the management of all facilities participating to
+the project. We also acknowledge the pioneering achievement of the contributors
+of the `Gamma Astro Data Formats <https://gamma-astro-data-formats.readthedocs.io/en/v0.3/>`_
+(GADF) initiative.
