@@ -36,3 +36,14 @@ We acknowledge the support of the management of all facilities participating to
 the project. We also acknowledge the pioneering achievement of the contributors
 of the `Gamma Astro Data Formats <https://gamma-astro-data-formats.readthedocs.io/en/v0.3/>`_
 (GADF) initiative.
+=======
+You can contact the VODF teams using the communication methods below.
+
+Communication
+--------------
+- `VODF Discussion Forums <https://github.com/orgs/VODF/discussions>`_
+- `Slack Workspace <https://join.slack.com/t/vodf-workspace/shared_invite/zt-1if242xav-OvUtIOh44eDn49UKU5oElA>`_
+
+Acknowledging VODF
+------------------
+TBD
