@@ -10,7 +10,7 @@ the Gamma Astro Data Formats initiative
 build a common data format of the gamma-ray day from IACTs, allowing joint analyses
 or data sharing with success. The VODF aims to build a commun format for IACTs, WCDs
 and neutrino detectors with the same objectives. In addition, with the development of
-Open Science and certified open data repository (e.g. EOSC, SDC), data formats should
+Open Science and certified open data repository (e.g. EOSC, CDS of Strasbourg), data formats should
 follow as much as possible the
 `FAIR principles <https://www.go-fair.org/fair-principles/>`_ and
 the `IVOA standards <https://ivoa.net/documents/index.html>`_.
